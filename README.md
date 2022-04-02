@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salmandotweb
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning web development...
-- 📫 How to reach me ... : sryt240@gmail.com
+- 📫 How to reach me ... : salmandotweb@gmail.com
 
 <!---
 Salman-Webs/Salman-Webs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
